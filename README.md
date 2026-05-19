@@ -40,8 +40,7 @@ Designed and engineered a fully operational multi-component oil extraction pumpj
 
 ### Kinematics Simulation
 
-<img src="https://raw.githubusercontent.com/Allen-wht/Automotive-Engineering-Projects/main/SW_Oil_Pump.gif" width="100%" />
----
+![Oil Pump](SW_Oil_Pump.gif)
 
 ## Technical Skills Summary
 * **CAD & Product Design:** CATIA, SolidWorks (Advanced Assembly, Motion Study), AutoCAD
