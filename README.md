@@ -40,7 +40,7 @@ Designed and engineered a fully operational multi-component oil extraction pumpj
 
 ### Kinematics Simulation
 
-![Oil Pump](SW_Oil_Pump.gif)
+![Oil Pump Simulation](SW_Oil_Pump.gif)
 
 ## Technical Skills Summary
 * **CAD & Product Design:** CATIA, SolidWorks (Advanced Assembly, Motion Study), AutoCAD
