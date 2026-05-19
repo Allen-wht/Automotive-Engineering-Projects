@@ -25,6 +25,7 @@ Executed a comprehensive, high-fidelity 3D parametric replication of a classic *
 
 ---
 
+
 ## 2. Two-Stage Gear Reduction Pumpjack Mechanism
 **Software:** SolidWorks  
 **Project Date:** January 2026  
@@ -38,6 +39,7 @@ Designed and engineered a fully operational multi-component oil extraction pumpj
 * **Manufacturing Documentation:** Structured layout for drafting GD&T-compliant 2D technical drawings and generating an itemized Bill of Materials (BOM).
 
 ### Kinematics Simulation
+
 ![Oil Pump Motion Analysis](SW_Oil_Pump.gif)
 
 ---
