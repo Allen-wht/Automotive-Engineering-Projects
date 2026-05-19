@@ -24,7 +24,7 @@ Executed a comprehensive, high-fidelity 3D parametric replication of a classic *
 > 📂 **Download Engineering Source Files:** Due to the extensive size of this high-detail CAD dataset, the raw CATIA `.CATPart` and `.CATProduct` files are securely hosted externally. You can access and download the full technical model zip package [Here](https://1drv.ms/u/c/868680773f85527b/IQDbG_u1T09LTb0vYK9dxz36AVabrwks4YBroadEvaPOah8).
 
 ---
-
+---
 
 ## 2. Two-Stage Gear Reduction Pumpjack Mechanism
 **Software:** SolidWorks  
@@ -40,8 +40,7 @@ Designed and engineered a fully operational multi-component oil extraction pumpj
 
 ### Kinematics Simulation
 
-![Oil Pump Motion Analysis](SW_Oil_Pump.gif)
-
+<img src="https://raw.githubusercontent.com/Allen-wht/Automotive-Engineering-Projects/main/SW_Oil_Pump.gif" width="100%" />
 ---
 
 ## Technical Skills Summary
