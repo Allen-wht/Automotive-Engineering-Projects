@@ -7,7 +7,7 @@ Welcome to my engineering design portfolio. This repository highlights my capabi
 ---
 
 ## 1. Volvo Inline-5 Engine Digital Replication
-**Software:** CATIA V5/V6  
+**Software:** CATIA V5R21
 **Project Date:** March 2026  
 
 ### Project Overview
@@ -24,23 +24,23 @@ Executed a comprehensive, high-fidelity 3D parametric replication of a classic *
 > 📂 **Download Engineering Source Files:** Due to the extensive size of this high-detail CAD dataset, the raw CATIA `.CATPart` and `.CATProduct` files are securely hosted externally. You can access and download the full technical model zip package [Here](https://1drv.ms/u/c/868680773f85527b/IQDbG_u1T09LTb0vYK9dxz36AVabrwks4YBroadEvaPOah8).
 
 ---
----
 
-## 2. Two-Stage Gear Reduction Pumpjack Mechanism
+## 2. Industrial Pumpjack Mechanism with Two-Stage Gear Reduction
 **Software:** SolidWorks  
 **Project Date:** January 2026  
 
 ### Project Overview
-Designed and engineered a fully operational multi-component oil extraction pumpjack mechanism featuring an integrated two-stage gear reduction gearbox. This project focuses heavily on link-mechanism kinematics and mechanical torque transmission efficiency.
+Designed and engineered a fully operational multi-component industrial **pumpjack mechanism** (oil extraction beam pump) featuring an integrated two-stage gear reduction gearbox. This project focuses heavily on link-mechanism kinematics, structural balancing, and mechanical torque transmission efficiency.
 
 ### Key Technical Features
-* **Kinematics & Motion Analysis:** Successfully configured mate constraints and conducted a full **SolidWorks Motion Study** to simulate the link-age inversion, ensuring smooth vertical rod stroke without mechanical binding.
-* **Gearbox Transmission Design:** Modeled a precision gear reduction system, maintaining proper diametral pitch, face width tolerances, and shaft alignment under dynamic loading.
-* **Manufacturing Documentation:** Structured layout for drafting GD&T-compliant 2D technical drawings and generating an itemized Bill of Materials (BOM).
+* **Kinematics & Motion Analysis:** Successfully configured advanced mechanical mate constraints and conducted a full **SolidWorks Motion Study** to simulate the four-bar linkage inversion, ensuring smooth vertical counterbalanced rod stroke without mechanical binding.
+* **Gearbox Transmission Design:** Modeled a multi-stage precision gear reduction system, maintaining proper diametral pitch, face width tolerances, and precise shaft alignment under alternating dynamic loading conditions.
+* **Manufacturing Documentation:** Structured the engineering layout for drafting GD&T-compliant 2D technical drawings and generating an itemized Bill of Materials (BOM) for fabrication planning.
 
 ### Kinematics Simulation
-
 ![Oil Pump Simulation](SW_Oil_Pump.gif)
+
+---
 
 ## Technical Skills Summary
 * **CAD & Product Design:** CATIA, SolidWorks (Advanced Assembly, Motion Study), AutoCAD
